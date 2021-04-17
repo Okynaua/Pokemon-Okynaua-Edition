@@ -29,6 +29,7 @@ Para resolver isso, criei a função conserta_enter_adiantado, no jogo.py, que �
 
 
 EASTER EGG
+
 Ao interagir com a Bolsa durante a batalha, você vai notar que possui um item, Item Misterioso. Segundo sua descrição, ele só pode ser usado quando ambos os pokémons estiverem no carmesim.
 
 Se quiser resolver o mistério, vá em frente, mas aqui está a resposta:
@@ -37,7 +38,7 @@ Se quiser resolver o mistério, vá em frente, mas aqui está a resposta:
 
 
 
-SPOILER!
+==SPOILER==
 
 Carmesim é um tom de vermelho, portanto, os dois Pokémons devem estar com a vida vermelha para você utilizar o Item Misterioso.
 Ao utilizar o item devidamente, ele te levará para uma batalha secreta com o famoso Pokémon "Erro" MissingNo.
