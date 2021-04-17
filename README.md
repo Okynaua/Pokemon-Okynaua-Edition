@@ -7,14 +7,18 @@ Arte do Menu Por: Pedro Brites (@ph_braitzz)
 
 Beta Testers: Lanix, UrsaPolarPontual e Fafale
 
+
 Músicas Extras:
 Dark, Darker, Yet Darker por The Great Anansi
+
 An Ending por Toby Fox
+
 
 Fórmula do Dano tirada de https://bulbapedia.bulbagarden.net/wiki/Damage
 Valores e informações dos ataques tirados de https://pokemondb.net/move/
 
 Todos os Pokemons estão no Nível 21
+
 
 
 Observações a serem destacadas:
@@ -26,6 +30,7 @@ Decobri que o jogo precisava se comunicar com o sistema, então no código há a
 
 Os Beta Testers (também conhecidos como meus amigos) relataram que quando pressionavam Enter várias vezes durante uma animação de ataque, ao entrar nos menus de seleção de ação ou de ataque, uma opção era escolhida sozinha, instantaneamente.
 Para resolver isso, criei a função conserta_enter_adiantado, no jogo.py, que é chamada no começo do loop da batalha. Ela desativa todos os Enters ativados antes da hora.
+
 
 
 EASTER EGG
