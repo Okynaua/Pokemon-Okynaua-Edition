@@ -13,6 +13,7 @@ An Ending por Toby Fox
 
 Fórmula do Dano tirada de https://bulbapedia.bulbagarden.net/wiki/Damage
 Valores e informações dos ataques tirados de https://pokemondb.net/move/
+
 Todos os Pokemons estão no Nível 21
 
 
