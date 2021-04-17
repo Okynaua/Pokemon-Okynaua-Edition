@@ -21,6 +21,7 @@ Observações a serem destacadas:
 
 Eu notei que o jogo parava de responder em alguns momentos, principalmente depois ou durante uma animação.
 Pesquisei e achei essa pergunta no stackoverflow: https://stackoverflow.com/questions/20165492/pygame-window-not-responding-after-a-few-seconds
+
 Decobri que o jogo precisava se comunicar com o sistema, então no código há alguns pygame.event.get() "soltos", para que a janela não pare de responder.
 
 Os Beta Testers (também conhecidos como meus amigos) relataram que quando pressionavam Enter várias vezes durante uma animação de ataque, ao entrar nos menus de seleção de ação ou de ataque, uma opção era escolhida sozinha, instantaneamente.
