@@ -1,5 +1,5 @@
 # Pokemon-Okynaua-Edition
-Um trabalho feito no começo de 2021 para o final do Introcomp
+Um trabalho feito no começo de 2021 para o final do Introcomp (Projeto de Extensão da UFES)
 
 Por Okynaua (Samuel Rodrigues Ferreira)
 
